@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
-
+        Random random = new Random();
 
         Forma forma[] = new Forma[5];
 
@@ -29,10 +29,10 @@ public class Main {
         System.out.println("Area: " + quadrado.calcularArea());
         System.out.println("Perimetro: " + quadrado.calcularPerimetro());
 
-        Random random = new Random();
+
         for (int i = 0; i < forma.length; i++) {
-            int randomNum = random.nextInt(3);
-            switch (randomNum) {
+            int numero = random.nextInt(3);
+            switch (numero) {
                 case 0:
                     forma[i] = retangulo;
                     break;

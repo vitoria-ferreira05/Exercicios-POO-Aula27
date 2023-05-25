@@ -7,8 +7,6 @@ public abstract class Forma {
     public Forma() {
     }
 
-    Forma[] forma = new Forma[5];
-
     public abstract float calcularArea();
 
     public abstract float calcularPerimetro();

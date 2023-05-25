@@ -59,7 +59,7 @@ public class ProdutosLoja {
         }
     }
 
-    public static void buscaDoProduto(ProdutosLoja produtosLoja, ProdutosLoja[] vetorProdutos){
+    public static void buscarProduto(ProdutosLoja produtosLoja, ProdutosLoja[] vetorProdutos){
         for (int i = 0; i < vetorProdutos.length; i++){
                 if (vetorProdutos[i].equals(produtosLoja)){
                     System.out.println("A posição do produto: " + i + " no vetor");
@@ -68,5 +68,4 @@ public class ProdutosLoja {
         }
         System.out.println("O produto nao esta no vetor");
     }
-
 }

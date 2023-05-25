@@ -7,6 +7,14 @@ public  class CDs extends ProdutosLoja{
         this.numeroDeFaixas = numeroDeFaixas;
     }
 
+    public int getNumeroDeFaixas() {
+        return numeroDeFaixas;
+    }
+
+    public void setNumeroDeFaixas(int numeroDeFaixas) {
+        this.numeroDeFaixas = numeroDeFaixas;
+    }
+
     @Override
     public void mostrarDetalhesDoltem(String nome, double preco, int numeroDeFaixas, String codigoDeBarras) {
 

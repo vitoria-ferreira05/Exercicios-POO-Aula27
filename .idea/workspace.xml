@@ -5,23 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2c1cab8-7f04-4442-a42e-7b8fcec82109" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios POO - Aula27.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio1/CDs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio1/DVDs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio1/Livros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio1/Loja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio1/ProdutosLoja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio2/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio2/Forma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio2/Quadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio2/Retangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio1/CDs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio1/CDs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio1/DVDs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio1/DVDs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio1/Livros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio1/Livros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio1/Loja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio1/Loja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio1/ProdutosLoja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio1/ProdutosLoja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio2/Forma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio2/Forma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +35,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Loja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio1.Loja" />
